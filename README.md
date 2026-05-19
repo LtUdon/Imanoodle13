@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Imanoodle13 or Gian Franco D. Alfonso
+- 👋 Hi, I’m @LtUdon (@Imanoodle13) or Gian Franco D. Alfonso
 - 👀 I’m interested in Video Game Design
 - 🌱 I’m currently learning Unreal Engine
 
