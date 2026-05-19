@@ -23,10 +23,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
+[Github](https://github.com/LtUdon)
 ![](https://github-readme-stats.vercel.app/api?username=Imanoodle13&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Imanoodle13&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imanoodle13&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[Github](https://github.com/LtUdon)
+
 
 ### 🔝 Top Contributed Repo
 💻 [AG Web](https://github.com/LtUdon/AG_Web.git) \
