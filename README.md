@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LtUdon (@Imanoodle13) or Gian Franco D. Alfonso
-- 👀 I’m interested in Video Game Design
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m interested in Video Game Design and Data Analysis
 
 
 ## 🌐 Socials:
